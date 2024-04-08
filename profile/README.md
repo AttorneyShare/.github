@@ -1,4 +1,3 @@
-<!--
 # Attorney Share streamlines the referral process between attorneys
 
 ## Waterfall Referrals
@@ -24,4 +23,3 @@ All of your referrals, inbound and outbound alike, can live in Attorney Share, e
 ![Add Qualified Attorneys To Your Network](./img/network.png)
 
 Invite your existing referral network for free and start sending them cases through Waterfall Referrals™. Expand your network through our national community of qualified attorneys.
--->
